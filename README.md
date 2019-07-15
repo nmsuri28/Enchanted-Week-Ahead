@@ -3,10 +3,10 @@
 Click on thumbnail to watch demo
 [![Watch the video](documentation.JPG)](https://youtu.be/O8tmCRlJDBM)
 
-#Live Version
+# Live Version
 https://nmsuri28.github.io/Enchanted-Week-Ahead/
 
-#Motivation
+# Motivation
 Preparing for this next week.
 
 # Contact Me:
