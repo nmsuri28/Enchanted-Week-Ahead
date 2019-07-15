@@ -1,0 +1,9 @@
+Still to do:
+
+Hover affects on the cards/images
+Making responsive
+Adding some cool effects to fonts....
+
+This is a simple one page layout.....
+
+

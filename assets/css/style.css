@@ -1,0 +1,122 @@
+
+body{
+    font-family: 'Ruthie', cursive;
+}
+.navbar{
+    background-color: #2C3531;
+    border-bottom: 2px solid rgb(121, 230, 193);
+}
+#title span{
+    padding:8px;
+    color: #D1E8E2;
+    font-size: 28pt;
+    font-family: 'MedievalSharp', cursive;
+}
+
+#icon{
+    color:rgb(121, 230, 193);
+    font-size: 38pt;
+}
+#spread{
+    background-color: #116466 
+}
+
+#cardOne{
+    background-color:rgb(121, 230, 193); 
+    margin-left: 385px; 
+    margin-top:25px; 
+    margin-bottom: 50px; 
+    width: 30rem; 
+    height: 20rem;
+    border: 4px solid rgb(121, 230, 193); 
+    box-shadow: 5px 10px 18px#2C3531; 
+}
+#cardTwo{
+    background-color:rgb(121, 230, 193);
+    margin-left: 50px; 
+    margin-top:25px; 
+    width: 30rem; 
+    height: 20rem;
+    border: 4px solid rgb(121, 230, 193);
+    box-shadow: 5px 10px 18px#2C3531;
+}
+#cardThree{
+    background-color:rgb(121, 230, 193);
+    margin-left: 385px;
+    margin-bottom: 50px;
+    width: 30rem;
+    height: 20rem;
+    border: 4px solid rgb(121, 230, 193); 
+    box-shadow: 5px 10px 18px#2C3531;
+}
+#cardFour{
+    margin-left: 50px;
+    background-color:rgb(121, 230, 193);
+    width: 30rem; 
+    height: 20rem;
+    border: 4px solid rgb(121, 230, 193);
+    box-shadow: 5px 10px 18px#2C3531;
+}
+h3{
+    font-family: 'MedievalSharp', cursive;
+}
+
+h4, h5, li, h6{
+    font-family: 'Lancelot', cursive;
+}
+
+
+p{
+    font-size: 14pt;
+}
+h1{
+    font-family: 'Ruthie', cursive;
+    color:  #D1E8E2;
+    font-size: 36pt
+}
+
+#results img{
+    min-height: 300px;
+    max-height: 300px;
+}
+
+li{
+    font-size: 16pt;
+}
+#results .card{
+    min-height: 385px;
+}
+
+#prayer{
+    margin-left: 35px; 
+    margin-right: 35px; 
+    padding : 25px;
+    font-family: 'Lancelot', cursive; 
+    border: 4px solid rgb(121, 230, 193); 
+    background-color:  rgb(121, 230, 193); 
+    box-shadow: 5px 10px 18px#2C3531;
+}
+#supportingContent img{
+    max-height: 200px;
+    min-width: 150px;
+    box-shadow: 3px 3px 8px#2C3531;
+    
+}
+
+#closingNotes{
+    margin-left: 35px; 
+    margin-right: 35px; 
+    padding : 25px;
+    font-family: 'Lancelot', cursive; 
+    border: 4px solid rgb(121, 230, 193); 
+    background-color:  rgb(121, 230, 193); 
+    box-shadow: 5px 10px 18px#2C3531;
+}
+
+.page-footer a{
+    color: #D1E8E2;
+}
+
+.page-footer a:hover{
+    color:  rgb(121, 230, 193);
+}
